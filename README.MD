@@ -1,6 +1,5 @@
 HOW TO USE THIS : 
-1. Install extension vscode 'folder templates' in 
-[folder templates](https://marketplace.visualstudio.com/items?itemName=Huuums.vscode-fast-folder-structure)
+1. Install vscode extension [folder templates](https://marketplace.visualstudio.com/items?itemName=Huuums.vscode-fast-folder-structure) 
 
 2. Choose which programming language folder template you want
 
